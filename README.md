@@ -34,6 +34,3 @@ NU Bootcamp Instructors and Teaching Assistants.
 N/A
 
 ---
-## Features
-
-If your project has a lot of features, list them here.
